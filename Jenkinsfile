@@ -33,5 +33,6 @@ stages{
                     echo 'Deployment failed.'
                 }
             }
+        }
     }
 }
